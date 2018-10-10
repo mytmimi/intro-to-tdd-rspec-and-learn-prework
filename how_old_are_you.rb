@@ -5,4 +5,4 @@ require_relative './current_age_for_birth_year.rb'
   
   users_age = current_age_for_birth_year(birth_year)
   
-  puts "You are: " + users_age.to_s + " year old."
+  puts "You are: " + users_age.to_s + " years old."
